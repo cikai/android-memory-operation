@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_59d3a5f463ed83fb0614bf051a85322c9a53263c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_21e37067be1ba122b2ea6ab25db814c94b9550a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23c1d8185acf3babeba724aa4e5728c769513cc7">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\pre-dexed\debug\instant-run_fe9f61ccfe3ff36dfd1e514fee65b8b9f70723ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_b706158e4f3b0a6372687a7838e948c5e711bd41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_79665da09a938199429b9a2054864e70cdfb0f5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_ab3a57535f587cf44295be13d1f3e4c4e9f4921a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0a9bf0a2ac5dcead4200387ea8e4d08a9fa764f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_eab9d16e60b27179c85676198449de421257aa50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_fbc3a2a2e485d73adb4baf3d480ee3eb54979073.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8ea571c13d91108b891ee12060e741f7566a4c35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1f65eb185369a7e2e1e7a9c697ac4803a042ece">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1c83aa94b331a709af484dba77bf7e0801a862de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5ddb24d3af71f83ba386c8f5b936ee715a425e62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_b728412a98186caa7e64f330258116b9299c9163.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_15cc1fcff07c54a3bf2fee5859701942620210f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_6cac69224502552b55046a5b48d47c2437d7aa5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_df07025050850685c4e61c3c2b31d9749048236a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\MemoryIOTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_c5a6bd3ad3961583dafae8182cf3aea7c4d06f95.jar" />
+    </item>
+
+</items>
